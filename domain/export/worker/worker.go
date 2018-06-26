@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ricardolonga/workshop-go/domain"
+	"github.com/fyukiobr/workshop-go/domain"
 )
 
 type worker struct{}
